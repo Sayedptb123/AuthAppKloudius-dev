@@ -65,8 +65,8 @@ A simple authentication flow built with **React Native** using:
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/react-native-auth-app.git
-cd react-native-auth-app
+git clone https://github.com/Sayedptb123/AuthAppKloudius-dev.git
+cd AuthAppKloudius-dev
 ```
 
 2. Install dependencies:
