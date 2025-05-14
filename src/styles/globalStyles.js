@@ -52,5 +52,20 @@ export default StyleSheet.create({
         color: '#666',
         marginBottom: 10,
         textAlign: 'right',
-    },
+    }, splashScreen: {
+    flex: 1,
+    backgroundColor: '#fff',
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  splashText: {
+    fontSize: 88,
+    fontWeight: 'bold',
+    color: colors.primaryColor,
+    marginBottom: 20,
+  },
+  loader: {
+    marginTop: 20,
+    color: colors.primaryColor,
+  },
 });
